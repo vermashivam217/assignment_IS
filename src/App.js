@@ -146,7 +146,6 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>Material Table Example Using JSONPlaceholder API</h1> <br /><br />
 
       <MaterialTable
         title="User Details"
